@@ -1,0 +1,8 @@
+{
+        "name": "font-awesome-4",
+        "description": "Font Awesome 4 packaged for Meteor",
+        "homepage": "https://github.com/michaelbishop/meteor-font-awesome-4",
+        "author": "Michael Bishop",
+        "version": "4.0.0",
+        "git": "https://github.com/michaelbishop/meteor-font-awesome-4.git"
+}
