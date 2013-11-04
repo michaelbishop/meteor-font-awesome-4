@@ -8,7 +8,7 @@ Meteorite smart package for Font Awesome 4
 
 ## How to install
 1. `npm install -g meteorite` (if not already installed)
-2. `mrt add font-awesome`
+2. `mrt add font-awesome-4`
 
 ## Important Notes
 Must include fa in class to work properly like this:
