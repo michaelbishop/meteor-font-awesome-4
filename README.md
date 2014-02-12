@@ -1,6 +1,13 @@
 meteor-font-awesome-4
 =====================
 
+NOTE: this package is [deprecated](https://github.com/michaelbishop/meteor-font-awesome-4/issues/2#issuecomment-34832784) and will be removed from Atmosphere.
+
+Please use https://github.com/nate-strauser/meteor-font-awesome instead.
+
+
+---
+
 Font Awesome 4 has been completely rewritten for speed and is fully compatible with Bootstrap 3.
 
 Meteorite smart package for Font Awesome 4
